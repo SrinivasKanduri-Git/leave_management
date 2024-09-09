@@ -1,0 +1,3 @@
+# frozen_string_literal: true
+
+Rails.application.config.secrect_key_base = '7f47170f5547ef54c743a17edb4c8e5fceb681b9b6cc89db2a8694b6295f755dc0c770ddcf524ce540dff774b1700b89e51edf7ba10083284e033e94e2982744'
